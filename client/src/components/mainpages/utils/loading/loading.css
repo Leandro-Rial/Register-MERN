@@ -1,0 +1,11 @@
+.loading {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bolder;
+}
